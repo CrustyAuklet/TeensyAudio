@@ -1,0 +1,14 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=HOUSEPART~String~HOUSEPART~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Supplier Unit Price 1~Float~Supplier Unit Price 1~100|Field=Supplier Subtotal 1~Float~Supplier Subtotal 1~100|ReportField=Currency~USD|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~TeensySound.PrjPcb|ReportField=ProjectFullPath~D:\Ethan\Desktop\Working\2_Projects\TeensySound\TeensySound.PrjPcb|ReportField=Title~BOM_PartType For Project [TeensySound.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~21|ReportField=ReportTime~13:09:00|ReportField=ReportDate~03-Oct-17|ReportField=ReportDateTime~03-Oct-17 13:09:00|ReportField=OutputName~BOM_PartType|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Address1|ReportField=Address2~Address2|ReportField=Address3~Address3|ReportField=Address4~Address4|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~|ReportField=Organization~Organization|ReportField=ProjectName~|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~6|ReportField=Time~|ReportField=Title~Micro-Computer Controls|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~TeensySound.PrjPcb|ReportField=DataSourceFullPath~D:\Ethan\Desktop\Working\2_Projects\TeensySound\TeensySound.PrjPcb
+MF-CAP-1206-10uF||YES|C1|C1206L|CAPACITOR_NP|1|0.33|0.33
+MF-CAP-0402-1uF||YES|C2, C4, C6, C12, C13, C14, C15, C16, C17|C0402N|CAPACITOR_NP|9|0.10|0.9
+MF-CAP-0402-4.7nF||YES|C3|C0402L|CAPACITOR_NP|1|0.10|0.1
+MF-CAP-0402-0.1uF||YES|C11|C0402N|CAPACITOR_NP|1|0.10|0.1
+455-1749-1-ND||NO|J1|JST S2B-PH-SM4|2 Pin|1|0.58|0.58
+MF-IND-1210-10uH||YES|L1|L1210_N|INDUCTOR|1|0.17|0.17
+MF-RES-0402-1K||YES|R1|R0402L|RESISTOR|1|0.10|0.1
+MF-RES-0402-470||YES|R2|R0402L|RESISTOR|1|0.10|0.1
+Teensy 3.2|Teensy 3.2|NO|U1|TEENSY_3.0-3.2&LC_DIL|TEENSY 3.2|1|22.50|22.5
+SGTL5000XNLA3R2|Low Power Stereo Codec with Headphone Amp, 1.1 to 2 V, -40 to 85 degC, 20-Pin QFN-EP, RoHS, Tape and Reel|NO|U2|FRES-2032-01_L|CMP-1078-00004-1|1|2.73|2.73
+LM48310|||U3|LM48310_l|LM48310|1||
+MF-MICROSD|Actual Device is 4UCONN microSD|YES|uSD1|MF-MICROSD|MacroFab uSD card slot|1|1.51|1.51
+AP7313-18SAG-7DICT-ND|Voltage Regulator|NO|VR1|AP7313_L|Volt Reg|1|0.41|0.41
