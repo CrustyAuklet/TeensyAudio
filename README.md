@@ -7,6 +7,7 @@
 
 **Future Features:**
   - Change amp to two channel
+  - smaller JST connector to accomidate 2 channels
 
 Based on the PRJC audio sheild and prop sheild, this is a combination 
 of features I needed for a project in the teensy form factor. If all 
